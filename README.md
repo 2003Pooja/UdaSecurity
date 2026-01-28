@@ -1,4 +1,4 @@
-🏠 CatPoint Home Security System
+🏠 CatPoint Home Security System : 
 A modular Java-based home security application developed as part of the Udacity Java Application Deployment Project.
 The system detects security threats using sensors and camera images, triggering alarms based on system state and defined rules.
 ## Features
